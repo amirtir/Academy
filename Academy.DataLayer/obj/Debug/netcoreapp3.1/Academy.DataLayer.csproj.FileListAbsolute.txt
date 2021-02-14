@@ -1,0 +1,9 @@
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\bin\Debug\netcoreapp3.1\Academy.DataLayer.deps.json
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\bin\Debug\netcoreapp3.1\Academy.DataLayer.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\bin\Debug\netcoreapp3.1\Academy.DataLayer.pdb
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.csprojAssemblyReference.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.AssemblyInfo.cs
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.DataLayer\obj\Debug\netcoreapp3.1\Academy.DataLayer.pdb

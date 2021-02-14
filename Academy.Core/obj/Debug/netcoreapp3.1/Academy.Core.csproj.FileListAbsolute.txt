@@ -1,0 +1,9 @@
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\bin\Debug\netcoreapp3.1\Academy.Core.deps.json
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\bin\Debug\netcoreapp3.1\Academy.Core.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\bin\Debug\netcoreapp3.1\Academy.Core.pdb
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.csprojAssemblyReference.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.AssemblyInfo.cs
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.Core\obj\Debug\netcoreapp3.1\Academy.Core.pdb

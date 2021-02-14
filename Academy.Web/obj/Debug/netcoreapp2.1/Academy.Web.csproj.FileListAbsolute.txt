@@ -1,0 +1,15 @@
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\bin\Debug\netcoreapp2.1\Academy.Web.deps.json
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\bin\Debug\netcoreapp2.1\Academy.Web.runtimeconfig.json
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\bin\Debug\netcoreapp2.1\Academy.Web.runtimeconfig.dev.json
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\bin\Debug\netcoreapp2.1\Academy.Web.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\bin\Debug\netcoreapp2.1\Academy.Web.pdb
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.csprojAssemblyReference.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.AssemblyInfoInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.AssemblyInfo.cs
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.csproj.CoreCompileInputs.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.RazorAssemblyInfo.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.RazorAssemblyInfo.cs
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.RazorTargetAssemblyInfo.cache
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.dll
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.pdb
+C:\Users\amirt\source\repos\Academy.Web\Academy.Web\obj\Debug\netcoreapp2.1\Academy.Web.genruntimeconfig.cache
